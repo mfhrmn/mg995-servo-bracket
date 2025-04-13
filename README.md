@@ -8,7 +8,7 @@ This bracket is made to align and hold an MG995 servo motor in tandem with a man
 
 ## 🎯 Purpose of the Bracket
 
-- Provide a robust mount for MG995 servo and standard ball valve
+- Provide a robust mount for MG995 servo and 1/4" ball valve compressor
 - Enable automated or remote control of fluid flow
 - Eliminate the need for expensive solenoid or motorized valves
 - Simplify mechanical integration in small-scale automation systems
