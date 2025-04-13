@@ -1,10 +1,10 @@
 # MG995 Servo & Ball Valve Bracket
 
-A custom-designed 3D printable bracket to securely mount an MG995 servo motor and a standard ball valve, enabling remote or automated control in fluid handling and plumbing systems.
+A custom-designed 3D printable bracket to securely mount an MG995 servo motor and a standard 1/4" ball valve compressor, enabling remote or automated control in fluid handling and plumbing systems.
 
 ## 🛠️ Project Description
 
-This bracket is engineered to align and hold an MG995 servo motor in tandem with a manually actuated ball valve, converting rotational servo motion into valve actuation. Ideal for fluid automation, DIY irrigation systems, or home engineering projects where manual valve control needs to be automated.
+This bracket is made to align and hold an MG995 servo motor in tandem with a manually actuated ball valve, converting rotational servo motion into valve actuation. Ideal for fluid automation, DIY irrigation systems, or home engineering projects where manual valve control needs to be automated.
 
 ## 🎯 Purpose of the Bracket
 
