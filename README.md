@@ -16,3 +16,17 @@ This bracket is made to align and hold an MG995 servo motor in tandem with a man
 ## ✅ Compatibility
 - **Servo:** MG995 (standard size servo motor)
 - **Ball Valve Compressor:** 1/4" manual ball valves with lever handle (modification may be required for different sizes or handle designs)
+
+---
+
+![Render - Closeup](images/assembled_view_1.png)
+![Render - Closeup](images/assembled_view_2.png)
+
+---
+
+## 📄 License
+
+Licensed under the **MIT License** — free to use, modify, and distribute.  
+Attribution appreciated but not required.
+
+---
