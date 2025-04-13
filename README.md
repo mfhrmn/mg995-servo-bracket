@@ -20,7 +20,6 @@ This bracket is made to align and hold an MG995 servo motor in tandem with a man
 ---
 
 ![Render - Closeup](images/assembled_view_1.png)
-![Render - Closeup](images/assembled_view_2.png)
 
 ---
 
